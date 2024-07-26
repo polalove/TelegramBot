@@ -1,7 +1,7 @@
 import asyncio
 import logging
 import os
-# sadasdasdas
+
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.enums import ParseMode
 from aiogram.filters.command import Command
