@@ -1,7 +1,7 @@
 import asyncio
 import logging
 import os
-# Тестирование клонирования с гитхаба.
+# Тестирование клонирования с гитхаба. // Еще один тест, после пулла.
 from aiogram import Bot, Dispatcher, types, F
 from aiogram.enums import ParseMode
 from aiogram.filters.command import Command
